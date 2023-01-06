@@ -1,0 +1,11 @@
+{
+  "name": "authnet",
+  "version": "1.0.0",
+  "description": "Scripts to define and manage Authnet",
+  "main": "index.js",
+  "scripts": {
+	"build-authnet": "docker network create --driver bridge authnet"
+  },
+  "author": "",
+  "license": "ISC"
+}

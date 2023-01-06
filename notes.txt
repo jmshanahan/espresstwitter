@@ -1,0 +1,1 @@
+multipass exec svc-notes-- sh -x /build/configure-svc-notes.sh
